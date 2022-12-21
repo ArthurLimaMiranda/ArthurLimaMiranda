@@ -11,7 +11,7 @@
   <img align="center" alt=alt="Arthur-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Arthur-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Arthur-pic" height="150" style="border-radius:10px;" src="https://media.discordapp.net/attachments/903389927373414453/1054968090410106950/ezgif-4-342cc4fbb3.gif">
+  <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/903389927373414453/1054968090410106950/ezgif-4-342cc4fbb3.gif">
 </div>
   
   ##
