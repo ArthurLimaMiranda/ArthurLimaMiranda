@@ -36,7 +36,8 @@
   <img align="center" alt="Arthur-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
   
 </div>
- 
+
+<h1>Socials</h1>
 <div> 
   <a href="https://www.instagram.com/capaldi_lima_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alam2@poli.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
